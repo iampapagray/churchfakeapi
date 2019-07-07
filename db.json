@@ -2,7 +2,10 @@
   "events": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Catholics and Protestants Untie",
+      "image": "http://lorempixel.com/400/400/nature/",
+      "date": "",
+      
     }
   ],
 }
