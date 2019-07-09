@@ -7,7 +7,7 @@
         "title": "Howe, Jenkins and Rogahn",
         "date": "7/18/2019",
         "time": "4:45 PM",
-        "image": "https://images.unsplash.com/photo-1523367310297-83064fc42a16"
+        "image": "https://picsum.photos/200/300"
       },
       {
         "id": 2,
@@ -15,7 +15,7 @@
         "title": "Johnston Inc",
         "date": "7/12/2019",
         "time": "10:03 AM",
-        "image": "https://images.unsplash.com/photo-1445249029690-d729bbc73bcf"
+        "image": "https://picsum.photos/200/300"
       },
       {
         "id": 3,
@@ -72,14 +72,6 @@
         "date": "7/5/2019",
         "time": "9:47 AM",
         "image": "https://images.unsplash.com/photo-1472457897821-70d3819a0e24"
-      },
-      {
-        "id": 10,
-        "event_id": "679a67a6-f0cc-409a-9719-7c0559041997",
-        "title": "Bednar Group",
-        "date": "7/30/2019",
-        "time": "4:06 AM",
-        "image": "https://images.unsplash.com/photo-1528475478853-5b89bed65c4c"
       }
     ]
   },
