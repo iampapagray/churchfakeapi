@@ -81,8 +81,8 @@
         "time": "4:06 AM",
         "image": "http://dummyimage.com/512x489.png/5fa2dd/ffffff"
       }
-    ],
-  }
+    ]
+  },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
